@@ -227,7 +227,7 @@ import Farquest from 'farquest';
 ```
 
 To do the inverse, add `import "farquest/shims/node"` (which does import polyfills).
-This can also be useful if you are getting the wrong TypeScript types for `Response` ([more details](https://github.com/stainless-sdks/tree/main/src/_shims#readme)).
+This can also be useful if you are getting the wrong TypeScript types for `Response` ([more details](https://github.com/FarquestSocial/tree/main/src/_shims#readme)).
 
 ### Logging and middleware
 
